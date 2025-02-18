@@ -10,10 +10,12 @@ Import data table to Jupyter notebook
 Check data structure
 Check for null values and duplicates
 Exporatory Data Analyses using plot histograms of numerical data
-Create a KNN Model with 80% training values and 20% test values
-Calculate accuracy
-
-
+Normalization: MinMax Standardization
+Correlation analyis of feature to target 
+Dropping 5 of the 11 feature columns due to high inter-feature correlation or low target correlation
+Create a KNN Classification Model with 80% training values and 20% test values
+Prediction of Wine Quality using non-normalized, normalized and selected normalized input features
+Calculate accuracy for non-normalized, normalized and selected normalized input features
 
 
 
